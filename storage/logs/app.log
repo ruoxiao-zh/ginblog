@@ -1,2 +1,4 @@
 2021/08/05 11:49:08 {"callers":["/Users/ellison/go/src/github.com/ruoxiao-zh/ginblog/main.go: 23 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1628135348168031000}
 2021/08/05 14:52:22 {"callers":["/Users/ellison/go/src/github.com/ruoxiao-zh/ginblog/main.go: 23 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1628146342559535000}
+2021/08/05 23:37:39 {"callers":["/Users/ellison/go/src/github.com/ruoxiao-zh/ginblog/main.go: 23 main.init.0"],"level":"error","message":"app.BindAndValid errs: AppKey为必填字段,AppSecret为必填字段","time":1628177859971211000}
+2021/08/05 23:41:52 {"callers":["/Users/ellison/go/src/github.com/ruoxiao-zh/ginblog/main.go: 23 main.init.0"],"level":"error","message":"app.BindAndValid errs: AppKey为必填字段,AppSecret为必填字段","time":1628178112189214000}
